@@ -1,0 +1,15 @@
+numpy
+torch
+torchvision
+scikit-learn
+opencv-python
+matplotlib
+Pillow
+scipy
+pandas
+nibabel
+medpy
+tensorboard
+adamod
+ipykernel
+
